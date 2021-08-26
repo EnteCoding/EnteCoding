@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ente
 - 👀 I’m interested in coding and gaming
-- 🌱 I’m currently learning JavaSkript
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on nothing xD
 - 📫 How to reach me: Discord: Ente#7777
 
